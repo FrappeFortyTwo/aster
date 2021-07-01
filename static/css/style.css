@@ -110,6 +110,7 @@ nav * {
     font-size: 35px;
     line-height: 1.4em;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-overflow: clip;
 }
 
 #Page_Desc {
@@ -147,7 +148,8 @@ article {
 }
 
 #Content_Card {
-    background-color: #17232B;
+    background-color: #EAF1F5;
+    
     padding: 20px;
     /* align-self: center; */
     box-shadow: 0 10px 12px 0 rgba(0, 0, 0, 0.2);
@@ -158,6 +160,7 @@ article {
     margin: 10px;
     float: left;
     width: 200px;
+    min-width: 200px;
     /* align-self: center; */
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.3s;

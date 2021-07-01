@@ -2,9 +2,13 @@
 <html lang="en">
     {{- partial "head" . -}}
     <body>
+        {{- partial "nav" . -}}
         <article>
-            {{- partial "nav" . -}}
+            <div id="Content">
+                <div id="Content_Card">
                 {{ block "singleContent" . }}{{ end }}
+                </div>
+            </div>
         </article>
     </body>
     <script src="/js/ui.js"></script>
