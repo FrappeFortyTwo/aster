@@ -106,6 +106,15 @@ article {
 #Card_Desc {
     padding: 10px;
     text-align: center;
+    width: 220px;
+}
+
+#Content {
+    background-color: coral;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 900px;
+    padding: 10px;
 }
 
 @media (max-width: 768px) {
