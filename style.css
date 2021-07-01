@@ -188,6 +188,7 @@ article {
 
 @media (max-width: 512px) {
     nav {
+        top:50px;
         width: 0px;
     }
     article {

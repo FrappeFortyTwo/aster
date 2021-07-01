@@ -2,8 +2,8 @@ var x, y;
 
 if (window.screen.width < "576")
     window.onload = function () {
-        nav = document.getElementById("Nav");
-        btn = document.getElementById("Btn");
+        nav = document.getElementById("nav");
+        btn = document.getElementById("btn");
     }
 
 function openNav() {
