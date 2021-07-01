@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+    {{- partial "head" . -}}
+    <body>
+        {{- partial "nav" . -}}
+        <article>
+            <div id="Content">
+            {{ if .IsHome }}
+                {{ range .Site.RegularPages }}
+                {{ partial "card" . }}
+                {{ end }}
+            {{ end }}
+
+            {{ if .IsSection }}
+                {{ range where .Site.RegularPages "Type" .Page.Section }}
+                {{ partial "card" . }}
+                {{ end }}        
+            {{ end }}
+            </div>
+        </article>
+    </body>
+    <script src="/js/ui.js"></script>
+</html>

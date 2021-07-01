@@ -5,67 +5,26 @@
     <div class="bar3"></div>
 </div>
 <nav id="nav">
-
-    <h1 id="Site_Title">Sousich</h1>
+    <a href="{{ .Site.BaseURL }}">
+        <h1 id="Site_Title">{{ .Site.Title }}</h1>
+    </a>
     <ul id="Site_Menu">
+        {{ range .Site.Menus.main }}
         <li>
-            <a href="single.html">
-                About
-            </a>
+            <a href="{{ .URL }}">{{ .Title }}</a>
         </li>
-        <li>
-            <a href="">
-                Blog
-            </a>
-        </li>
-        <li>
-            <a href="">
-                Cheats
-            </a>
-        </li>
-        <li>
-            <a href="">
-                Curated
-            </a>
-        </li>
-        <li>
-            <a href="">
-                Malware
-            </a>
-        </li>
-        <li>
-            <a href="">
-                Notes
-            </a>
-        </li>
-        <li>
-            <a href="">
-                Projects
-            </a>
-        </li>
-        <li>
-            <a href="">
-                Trails
-            </a>
-        </li>
+        {{ end }}
     </ul>
-    <h1 id="Page_Title">Hello</h1>
-    <p id="Page_Desc">Welcome to my corner of the internet. Knock yourself out on my weird ideas, thoughts & creations.</p>
+    <h1 id="Page_Title">{{ .Title }}</h1>
+    <p id="Page_Desc">{{ .Description }}</p>
     <ul id="Page_Toc">
+        {{ if .IsPage }}
+        <!-- ENABLE IF WORDCOUNT > 600 -->
+        {{ if and .IsPage (gt .WordCount 600) }}
         <li>
-            <a href="">
-                Notes
-            </a>
+            <a href="{{ .Permalink }}">{{.TableOfContents }}</a>
         </li>
-        <li>
-            <a href="">
-                Projects
-            </a>
-        </li>
-        <li>
-            <a href="">
-                Trails
-            </a>
-        </li>
+        {{ end }}
+        {{ end }}
     </ul>
 </nav>
