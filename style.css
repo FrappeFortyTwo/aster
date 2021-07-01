@@ -61,8 +61,9 @@ nav * {
 
 #Page_Desc {
     padding: 10px;
-    color: #596B78;
-    font-size: 18px;
+    color: #BBC6CE;
+    font-size: 16px;
+    width: 200px;
 }
 
 #Page_Toc li {
@@ -76,48 +77,58 @@ nav * {
 }
 
 article {
-    position: absolute;
-    margin-left: 230px;
+    /* position: absolute; */
+    margin-left: 220px;
+    position: relative;
+    padding: 0 2em;
+    margin-bottom: 50px;
+    line-height: 1.6em;
 }
 
-#Card {
+#Content {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 920px;
+    padding: 10px;
+}
+
+#Content_Card {
+    background-color: #17232B;
+    padding: 20px;
+    /* align-self: center; */
+    box-shadow: 0 10px 12px 0 rgba(0, 0, 0, 0.2);
+}
+
+.Card {
     background-color: #17232B;
     margin: 10px;
     float: left;
-    width: 220px;
-    align-self: center;
+    width: 200px;
+    /* align-self: center; */
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.3s;
 }
 
-#Card:hover {
+.Card:hover {
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
 }
 
-#Card_Img {
+.Card_Img {
     width: 100%;
 }
 
-#Card a {
+.Card a {
     text-decoration: none;
     color: #D5DCE2;
 }
 
-#Card_Desc {
-    padding: 10px;
+.Card_Desc {
+    padding: 8px;
+    font-size: 16px;
     text-align: center;
-    width: 220px;
 }
 
-#Content {
-    background-color: coral;
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 900px;
-    padding: 10px;
-}
-
-@media (max-width: 768px) {
+@media (max-width: 512px) {
     nav {
         width: 0px;
     }
