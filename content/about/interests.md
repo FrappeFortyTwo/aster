@@ -24,3 +24,12 @@ We can have multiple threads executing code. If one thread blocks, another one i
 
 lorem
 {{</details>}}
+
+{{<mermaid "something">}}
+    graph TD
+    K[CPU Core]
+    K --- A[Scheduler]
+    A --- B[Go Routine]
+    A --- C[Go Routine]
+    A --- D[Go Routine]
+{{</mermaid>}}
