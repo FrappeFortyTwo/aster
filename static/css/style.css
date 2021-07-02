@@ -83,8 +83,8 @@ nav * {
 #Site_Title {
     margin: 20px 10px 30px 10px;
     color: #D5DCE2;
-    font-size: 40px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 45px;
+    font-weight: lighter;
 }
 
 #Site_Menu>li {
@@ -109,7 +109,7 @@ nav * {
     color: #D5DCE2;
     font-size: 35px;
     line-height: 1.4em;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
     text-overflow: clip;
 }
 

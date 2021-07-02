@@ -14,3 +14,13 @@ Ofcourse I'm not an expert on all the below mentioned. Some I know a little less
 2. Robotics
 3. Story telling
 4. Indie Game Development
+5. 
+
+
+{{<details "somee shit">}}
+
+Scheduler runs one go routine until it finishes or makes a blocking call, and switches to another. This way multiple chunks of code run (kinda) at the same time. By default go tries to use only a single core.
+We can have multiple threads executing code. If one thread blocks, another one is picked up and worked on.
+
+lorem
+{{</details>}}
