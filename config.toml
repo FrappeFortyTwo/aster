@@ -7,3 +7,17 @@ title = "Sousich"
 [author]
     name = "Sousich"
     homepage = "https://sousich.dev"
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineAnchors = ""
+    
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = true
+    style = "fruity"
+    tabWidth = 4
