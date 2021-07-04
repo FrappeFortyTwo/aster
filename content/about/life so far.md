@@ -1,16 +1,20 @@
 ---
-title: "Life so Far"
+title: "About"
 description: "Connecting the dots"
 imgURL: "/images/sample.png"
 ---
 
 ## Who Am I ?
 
-I am a maker. I like to take things apart, and see how they work, see their shortcomings and maybe even add a personal touch. I am passionate about engineering and design. I stress on design that complements the engineering aspect and vice versa.
+{{<column>}}
+    I am a maker. I like to take things apart, and see how they work, see their shortcomings and maybe even add a personal touch. I am passionate about engineering and design. I stress on design that complements the engineering aspect and vice versa.
+{{</column>}}
+
+
 
 I like to chase learning curves revolving computer science, programming, robotics and digital art. Beyond that, I’m probably spending time with family and friends, reading, sketching, strolling, playing basketball or tinkering on my next side project.
 
-A Minimalist who likes to code.
+A Minimalist who likes to code. Here's my Resume.
 
 ## Life So Far ...
 
