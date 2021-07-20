@@ -8,8 +8,6 @@
 * Website Illustrations
 * Youtube Intro Animation
 
-
-
 ## Finding Your Art Style
 
 * Goal : To create minimal cartoon styled funny comic strips with incidents / one liners.
@@ -27,3 +25,4 @@
   * Put it above your original layer.
   * Reduce the brightness.
   * Erase where you want light with transparency locked.
+

@@ -15,16 +15,22 @@
         </li>
         {{ end }}
     </ul>
+    
     <h1 id="Page_Title">{{ .Title }}</h1>
     <p id="Page_Desc">{{ .Description }}</p>
-    <ul id="Page_Toc">
-        {{ if .IsPage }}
-        <!-- ENABLE IF WORDCOUNT > 600 -->
-        {{ if and .IsPage (gt .WordCount 600) }}
-        <li>
-            <a href="{{ .Permalink }}">{{.TableOfContents }}</a>
-        </li>
-        {{ end }}
-        {{ end }}
-    </ul>
+
+    <div id="Toc">
+        <ul id="Page_Toc">
+            {{ if .IsPage }}
+            <!-- ENABLE IF WORDCOUNT > 600 -->
+            {{ if and .IsPage (gt .WordCount 600) }}
+            <li>
+                <a href="{{ .Permalink }}">{{.TableOfContents }}</a>
+            </li>
+            {{ end }}
+            {{ end }}
+        </ul>
+    </div>
+
+    <br>
 </nav>

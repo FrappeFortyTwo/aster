@@ -1,17 +1,26 @@
 ---
-title: "Favorite Books"
-description: " My happy place !"
+title: "Reading List"
+description: " My Happy Place !"
 imgURL: "/images/sample.png"
 ---
 
-Magazines :
+# Newsletter :
+
+# Comics :
+
+1. Rick and Morty
+2. Spongebob
+3. Samurai Jack
+4. Spongebob Square Pants
+
+# Magazines :
 
 1. Makezine 
 2. Hackspace
 3. Hello World
 4. Wireframe
 
-Fiction :
+# Fiction :
 
 1. Alice Walker : The Color Purple
 2. Bulgakov : Master and Margarita
@@ -22,16 +31,7 @@ Fiction :
 7. Christopher Browning : Ordinary Men
 8. Dodie Smith : Capture the Castle
 9. Douglas Adams : Hitchhikers Guide to The Galaxy
-
-Before cinema ruined it. This book was a light science fiction. Pretty great for it's time. But now given the phelothra
-of sci-fi content we have. This might nnnnot impress you. Although it's a great book ( especially for young readers )
-
 10. Fyodor Dostoyevsky : Crime and Punishment
-
-Have you ever killed someone ? Do you want to ? This book will take you inside the mind
-of a young man who kills someone and what follows. It is not the a crime-thriller, it is a psychological thriller.
-( Read the one translated by Richard Pevear & Larissa Volokhonsky. )
-
 11. Fyodor Dostoyevsky : Demons
 12. Fyodor Dostoyevsky : Brothers Karamazov
 13. Fyodor Dostoyevsky : The Idiot
@@ -40,14 +40,7 @@ of a young man who kills someone and what follows. It is not the a crime-thrille
 16. Gabriel Marquez : One Hundred Years of Solitude
 17. George Grossmith : The Diary of Nobody
 18. George Orwell : 1984
-
-    I've loved this book. Surely it is more relevant now then ever. No just the fact that we are being watched by corporate giants but how fake information & propaganda is spread today, ministry of love ? yep.
-
 19. George Orwell : Animal Farm
-
-    This can be your first book, if you're starting to read. You will either get a good story about animals or
-    maybe ( sooner or later ) how this small book reflects society and hierarchy. Either way, it's a fun read.
-
 20. George Orwell : Road to Wigan Pier
 21. Harper Lees : To Kill Mocking Bird
 22. James Joyce : A Portrait of the Artist as a Young man
@@ -76,9 +69,6 @@ of a young man who kills someone and what follows. It is not the a crime-thrille
 45. Virginia Woolf : To The Lighthouse
 46. Vladimir Nabokov : Despair
 47. Vladimir Nabokov : Laughter in The Dark
-
-If you've ever been in love ? or better been betrayed. This book will bring you down on your knees. The interesting thing is the author very well tries to narrate the story from multiple viewpoints so you don't have a single direction to reach a conclusion.
-
 48. Vladimir Nabokov : Letters to Vera
 49. Vladimir Nabokov : Lolita
 50. Vladimir Nabokov : Pale Fire

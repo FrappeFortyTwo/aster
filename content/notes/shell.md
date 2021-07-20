@@ -5,6 +5,14 @@ imgURL: "/images/sample.png"
 katex: "true"
 ---
 
+{{<mermaid>}}
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+{{</mermaid>}}
+
 # Linux Command Line
 
 ### Q. Why use the commandline ?

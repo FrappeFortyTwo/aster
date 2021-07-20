@@ -4,7 +4,6 @@ description: "How to sell yourself"
 imgURL: "/images/sample.png"
 katex: "true"
 ---
-
 # Interview
 
 Before the interview : *My name is { your name }, and I have an interview scheduled with { interviewer namedi Kleine } at { 9 }.

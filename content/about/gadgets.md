@@ -1,6 +1,6 @@
 ---
 title: "Dream Workspace"
-description: "Yes. Money can buy happiness. And this is it."
+description: "Yes. Money can buy happiness. And this is what I'll shop."
 imgURL: "/images/sample.png"
 katex: "true"
 ---
@@ -18,7 +18,7 @@ On the Go :
 Primary Workspace :
 
 * Processor : AMD Ryzen  5600 X
-* Graphics : AMD Radeon 5600 XT
+* Graphics : AMD Radeon 6700 XT
 * Motherboard : MSI MAG X570  Tomahawk
 * SMPS : Corsair RM 850 Gold
 * RAM : Corsair Vengeance 16 GB DDR4 3200 C16
@@ -26,21 +26,13 @@ Primary Workspace :
 * SSD : Corsair Gen 4 PCIe MP600 M.2 SSD
 * Cabinet : Full Tower Cabinet
 
+---
 Accessories :
 
-* Monitor : LG 27QN600 
+* Monitor (x2) : LG 27QN600 
 * Mouse : Logitech G402
 * Webcam : Rapoo C260
 * Desk Mount : Amazon Basics
 * Mouse Pad  : Amazon Basics
 * Silent Mechanical Keyboard
 * Surge Protection
-
----
-
-Furniture :
-
-* Table 
-* Chair with Headrest
-* Sound absorbers
-* Whiteboard

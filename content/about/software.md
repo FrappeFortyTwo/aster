@@ -5,13 +5,16 @@ imgURL: "/images/sample.png"
 katex: "true"
 ---
 
+## Desktop Software
+---
+
 System :
 * OS : Linux Manjaro
 * DE : XFCE
 * Shell : Fish
 
 Code :
-* Text Editor : Mousepad
+* Editor : Vim, Mousepad, Typora
 * IDE : VS Code ( With Following Extensions )
     * Go
     * Live Server
@@ -19,58 +22,60 @@ Code :
     * Project Manager
     * Sidebar Markdown Notes
 
-Writing :
-* Note Taking : Typora
-* Office : Only  Office
+Internet :
+* Browser : Firefox, Brave, Midori, Tor Browser
+* Torrent : qBittorent
 
-Utilities :
-* Media Player : VideoLAN
-* Torrent Client : qBittorent
-
-Browser :
-* Primary Browser : Firefox
-* Secondary Browser : Brave
-
-Digital Art :
-* Digital Art : My Paint
-* Bitmap Editing : Kolour Paint
-
-Recording :
+Content Creation :
+* Digital Art : MyPaint, Kolour Paint
+* Video Editing : Kdenlive
+* Audio Editing : Audacity
+* Transcoding : Handbrake
 * GIF Recording : Peek
 * Screen Recording : Simple Screen Recorder
-* Transcoder : Handbrake
-* Video Editor : Kden Live
 
-## Desktop Software
+Viewers : 
+* Document : Okular
+* Images : Viewnior
+* Media : Videolan
 
-* OS : Manjaro Linux
-* DE : XFCE
+Backup :
+* Cloud : MegaSync
+* Local : TimeShift
 
-* Editors : 
-    * Commandline : Fish
-    * Code Editor : VS Codium
-        * Extensions :
-            * Go
-            * Git Graph
-            * Live Server
-            * Material Theme
+Others :
+* Office Suite : OnlyOffice
+* Game Engine : Godot
 
-    * Text Editor : Nano, Mousepad 
-* Viewers : 
-    * Document : Okular
-    * Images : Viewnior
-    * Media : Videolan
-* Internet :
-    * Browser : Firefox, Midori, Tor Browser
-    * Torrent : qBittorent
-* Backup :
-    * Cloud : MegaSync
-    * Local : TimeShift
-* Content Creation :
-    * Digital Art : MyPaint
-    * Video Editing : Kdenlive
-    * Audio Editing : Audacity
-    * Transcoding : Handbrake
-* Others :
-    * Office Suite : OnlyOffice
-    * Game Engine : Godot
+# Mobile 
+
+* OS : Pure Android
+* Launcher : Evie
+
+* Productivity : 
+  * Gmail
+  * Keep
+  * Drive
+  * Tasks
+  * Calendar
+
+* Communication :
+  * Phone
+  * Duo
+  * Signal
+  * Whatsapp
+  * Twitter
+
+* Media :
+  * Youtube
+  * Spotify
+  * Videolan
+  * Antenna Pod
+
+* Utilities :
+  * Clock
+  * Brave
+  * Files
+  * Camera
+  * Gallery
+  * Calculator
