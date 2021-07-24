@@ -26,7 +26,7 @@ sudo pacman -S neovim
 cd ~/.config; mkdir nvim
 
 # Copy "init.vim" into "~/.config/nvim/" from gitlab repo.
-cd ~/.config/nvim; wget "https://gitlab.com/sousich/neovim/-/blob/main/init.vim"
+cd ~/.config/nvim; rm init.vim; wget "https://gitlab.com/sousich/neovim/-/raw/main/init.vim"
 
 # Create directory "~/.config/nvim/undodir" for neovim undo files.
 mkdir undodir; cd ~
